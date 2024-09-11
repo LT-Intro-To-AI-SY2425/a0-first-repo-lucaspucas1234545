@@ -2,6 +2,8 @@
 
 Please read through all of this in order to get an idea of what you will be doing with github this year.  You do not need to understand everything, but you will get a good workflow in order to complete our assignments.  
 
+## :smirk: Did you know that calc is short for calculator according to the interwebs??????!?!?!?!?!?!!?
+
 ### To Complete:
 * Make some sort of change to this file, commit that change, and push it to your cloned repository.
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
